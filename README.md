@@ -1,5 +1,6 @@
 # NTI_AVT_Smart_Home
 NTI FINAL PROJECT " Smart Home System "
+
 I'd like to share our final project at National Telecommunication Institute (NTI) in the Embedded Systems track, Level 2, focusing on AVR interfacing. My project is a SMART HOME SYSTEM, and it's a culmination of a month's hard work.
 
 **Project Components:**
